@@ -30,7 +30,7 @@ File structure:
     - generator.js
     - spec/generator-spec.js
 
-where `generator.js` is the implementation  
+where `generator.js` is the implementation
 and `spec/generator-spec.js` is the test script
 
 (you'll need jasmine-node)

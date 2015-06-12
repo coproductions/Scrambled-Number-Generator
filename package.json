@@ -1,0 +1,23 @@
+{
+  "name": "constantin",
+  "version": "1.0.0",
+  "description": "Scrambled Number Generator ==========",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coproductions/Scrambled-Number-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coproductions/Scrambled-Number-Generator/issues"
+  },
+  "homepage": "https://github.com/coproductions/Scrambled-Number-Generator#readme",
+  "devDependencies": {
+    "chai": "^3.0.0",
+    "mocha": "^2.2.5"
+  }
+}
